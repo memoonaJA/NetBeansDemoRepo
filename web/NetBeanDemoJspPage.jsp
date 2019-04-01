@@ -15,7 +15,7 @@
         <h1>Hello World!</h1>
         <p> This is jspPage</p>
         <%
-            out.print("this is java code" +(3+3));
+            out.print("staging check" +(3+3));
             %>
     </body>
 </html>
